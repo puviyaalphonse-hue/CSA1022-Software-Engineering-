@@ -1,1 +1,26 @@
+ShopeEasy– E-Commerce Shopping Website
 
+## Project Overview
+ShopeEasy is a modern, responsive e-commerce shopping website designed to provide users with a smooth and convenient online shopping experience. It features a clean green-and-cream design with an attractive product layout and easy navigation.
+
+## Features
+- Responsive homepage and navigation.
+- Product listing with images and details.
+- Product search and browsing.
+- Add to cart functionality.
+- Wishlist functionality.
+- Shopping cart management.
+- Checkout and order placement.
+- Simulated payment flow.
+- Order confirmation.
+- LocalStorage support to retain cart and wishlist data.
+
+## Technologies
+- Figma
+- Figma Make
+- HTML, CSS and JavaScript (generated implementation)
+
+## Project Link
+[View Splash Shopping Website]https://www.figma.com/make/YdXx39MO7hqL3AHthOrkvO/Build-ShopEase-Shopping-App?t=WALrqgbjLwbbb24c-1
+## Brand Tagline
+Good Things, Just a Tap Away.
