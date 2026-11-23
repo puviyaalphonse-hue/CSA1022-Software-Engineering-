@@ -1,0 +1,5 @@
+docker build -t YOUR_DOCKERHUB_USERNAME/flask-api:1.0 .
+docker push YOUR_DOCKERHUB_USERNAME/flask-api:1.0
+kubectl apply -f deployment.yaml
+kubectl apply -f service.yaml
+kubectl get pods,services

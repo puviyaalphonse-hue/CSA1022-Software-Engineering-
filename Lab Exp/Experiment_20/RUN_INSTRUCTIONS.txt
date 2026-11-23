@@ -1,0 +1,5 @@
+Experiment 20: Create GitHub Repository and Push README Changes
+
+Follow commands.txt after creating a GitHub repository
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

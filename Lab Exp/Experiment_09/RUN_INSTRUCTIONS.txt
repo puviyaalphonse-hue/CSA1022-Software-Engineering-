@@ -1,0 +1,5 @@
+Experiment 9: GitHub Fork-and-Pull Request Workflow
+
+python sample.py
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

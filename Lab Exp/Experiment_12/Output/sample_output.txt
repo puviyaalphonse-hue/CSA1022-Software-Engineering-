@@ -1,0 +1,3 @@
+GET /       -> {"message":"Flask API is running","experiment":12}
+GET /health -> {"status":"healthy"}
+Kubernetes NodePort: 30080 (after deployment)

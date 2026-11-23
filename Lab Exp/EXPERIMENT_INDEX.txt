@@ -1,0 +1,19 @@
+07 - Task Management System – MoSCoW and Kano
+08 - Online Learning Platform – MoSCoW and Kano
+09 - GitHub Fork-and-Pull Request Workflow
+10 - Git Branching and Merge Conflict Resolution
+11 - Static Website Using Docker and Nginx
+12 - Flask API with Docker and Kubernetes
+13 - Jenkins CI/CD Pipeline
+14 - Continuous Deployment with GitHub Actions and Docker
+15 - GitHub Repository and Version Control
+16 - Flask To-Do Application Using Docker
+17 - Push and Pull Docker Images Using Docker Hub
+18 - Multi-Container Application Using Kubernetes
+19 - CI/CD Pipeline Using GitHub Actions
+20 - Create GitHub Repository and Push README Changes
+21 - Clone Existing GitHub Repository and Modify a File
+22 - Commit Local Changes and Push to GitHub
+23 - Pull Latest Changes from GitHub
+24 - Create feature-login Branch and Pull Request
+25 - Fork, Clone, Branch, Implement Feature, and Pull Request

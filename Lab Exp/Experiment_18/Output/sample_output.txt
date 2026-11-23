@@ -1,0 +1,3 @@
+Resources defined: frontend Deployment + NodePort Service; backend Deployment
+Scale frontend: kubectl scale deployment/frontend --replicas=3
+Inspect: kubectl get pods,services

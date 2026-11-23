@@ -1,0 +1,9 @@
+git checkout -b feature-branch
+git add .
+git commit -m "Feature update"
+git fetch origin
+git merge origin/main
+# Resolve conflict markers in the editor
+git add .
+git commit -m "Resolve merge conflict"
+git push origin feature-branch

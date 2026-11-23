@@ -1,0 +1,4 @@
+From remote repository
+Updating old-commit..new-commit
+Fast-forward
+README.md updated

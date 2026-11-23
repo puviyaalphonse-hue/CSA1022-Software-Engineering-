@@ -1,0 +1,5 @@
+git clone <repository-url>
+cd <repository-folder>
+# Edit README.md
+git status
+git diff

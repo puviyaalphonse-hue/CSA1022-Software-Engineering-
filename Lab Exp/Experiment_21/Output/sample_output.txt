@@ -1,0 +1,3 @@
+git status: modified: README.md
+git diff: displays the changed lines
+Changes are saved locally

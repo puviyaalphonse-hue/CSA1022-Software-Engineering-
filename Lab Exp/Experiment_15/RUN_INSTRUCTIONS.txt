@@ -1,0 +1,5 @@
+Experiment 15: GitHub Repository and Version Control
+
+python -c "from module_tasks import create_task; print(create_task('Design UI','Asha'))"
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

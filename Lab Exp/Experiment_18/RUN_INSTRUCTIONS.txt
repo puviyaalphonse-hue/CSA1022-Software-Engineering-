@@ -1,0 +1,5 @@
+Experiment 18: Multi-Container Application Using Kubernetes
+
+Build/push both images, then run kubectl apply -f k8s.yaml
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

@@ -1,0 +1,2 @@
+GitHub Actions: checkout -> setup Python -> install dependencies -> syntax check
+Expected result after successful run: green success check

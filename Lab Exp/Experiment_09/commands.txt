@@ -1,0 +1,6 @@
+git clone <your-fork-url>
+git checkout -b feature-update
+git add .
+git commit -m "Add feature update"
+git push origin feature-update
+# Open a Pull Request on GitHub

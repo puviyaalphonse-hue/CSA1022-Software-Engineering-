@@ -1,0 +1,5 @@
+Experiment 11: Static Website Using Docker and Nginx
+
+docker build -t se-static-site:1.0 .
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

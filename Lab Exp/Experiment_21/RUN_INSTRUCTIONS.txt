@@ -1,0 +1,5 @@
+Experiment 21: Clone Existing GitHub Repository and Modify a File
+
+Clone a repository and edit README.md
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

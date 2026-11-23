@@ -1,0 +1,7 @@
+git clone <your-fork-url>
+cd <repository-folder>
+git checkout -b feature-status
+git add feature.py README.md
+git commit -m "Add project status feature"
+git push -u origin feature-status
+# Open PR from fork/feature-status to original/main

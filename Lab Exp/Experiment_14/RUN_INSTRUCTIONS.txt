@@ -1,0 +1,5 @@
+Experiment 14: Continuous Deployment with GitHub Actions and Docker
+
+Push to main after adding Docker Hub repository secrets
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

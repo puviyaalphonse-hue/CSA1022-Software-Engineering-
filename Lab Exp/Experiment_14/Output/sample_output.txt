@@ -1,0 +1,2 @@
+Workflow: checkout -> configure Buildx -> login -> build and push image
+Image tag: DOCKERHUB_USERNAME/se-demo:latest

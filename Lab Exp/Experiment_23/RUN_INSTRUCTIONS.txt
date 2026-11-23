@@ -1,0 +1,5 @@
+Experiment 23: Pull Latest Changes from GitHub
+
+Run git pull origin main after a collaborator pushes changes
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

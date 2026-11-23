@@ -1,0 +1,5 @@
+Experiment 22: Commit Local Changes and Push to GitHub
+
+Execute commands.txt in your cloned repository
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

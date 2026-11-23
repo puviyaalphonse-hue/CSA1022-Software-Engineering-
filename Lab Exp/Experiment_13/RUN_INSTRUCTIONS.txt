@@ -1,0 +1,5 @@
+Experiment 13: Jenkins CI/CD Pipeline
+
+Run the Jenkins Pipeline job
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

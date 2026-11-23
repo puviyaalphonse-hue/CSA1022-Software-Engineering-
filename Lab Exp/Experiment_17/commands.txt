@@ -1,0 +1,6 @@
+docker build -t YOUR_DOCKERHUB_USERNAME/se-static-demo:1.0 .
+docker login
+docker push YOUR_DOCKERHUB_USERNAME/se-static-demo:1.0
+# On another machine:
+docker pull YOUR_DOCKERHUB_USERNAME/se-static-demo:1.0
+docker run -d -p 8080:80 YOUR_DOCKERHUB_USERNAME/se-static-demo:1.0

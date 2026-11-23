@@ -1,0 +1,7 @@
+git clone <repository-url>
+cd <repository-folder>
+# Modify README.md
+git add README.md
+git commit -m "Updated README"
+git push origin main
+git log -1 --oneline

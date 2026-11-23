@@ -1,0 +1,5 @@
+Experiment 17: Push and Pull Docker Images Using Docker Hub
+
+Use commands.txt with your Docker Hub username
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

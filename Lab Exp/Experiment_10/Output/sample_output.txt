@@ -1,0 +1,2 @@
+Example: [feature-branch abc1234] Resolve merge conflict
+After resolution, git status should show a clean working tree.

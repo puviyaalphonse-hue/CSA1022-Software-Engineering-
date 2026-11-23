@@ -1,0 +1,1 @@
+Final resolved project description: The application manages tasks and tracks progress.

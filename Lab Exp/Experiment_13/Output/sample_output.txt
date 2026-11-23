@@ -1,0 +1,4 @@
+Pipeline stages: Checkout -> SUCCESS
+Build -> SUCCESS
+Test -> SUCCESS
+Run -> SUCCESS

@@ -1,0 +1,5 @@
+Experiment 16: Flask To-Do Application Using Docker
+
+Build the Docker image and run the container; then open http://localhost:5000
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

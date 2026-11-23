@@ -1,0 +1,5 @@
+Experiment 19: CI/CD Pipeline Using GitHub Actions
+
+Push to main or open a pull request
+
+Replace placeholders such as <repository-url> and YOUR_DOCKERHUB_USERNAME. External services require your own accounts, credentials, and installed tools. Do not commit secrets.

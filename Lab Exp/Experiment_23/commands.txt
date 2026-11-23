@@ -1,0 +1,5 @@
+git clone <repository-url>
+cd <repository-folder>
+# Collaborator pushes a commit to origin/main
+git pull origin main
+git log -1 --oneline

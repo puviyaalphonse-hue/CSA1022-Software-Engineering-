@@ -1,0 +1,4 @@
+Build: image created locally
+Push: image uploaded to Docker Hub (login required)
+Pull: image downloaded on target machine
+Run: website at http://localhost:8080
